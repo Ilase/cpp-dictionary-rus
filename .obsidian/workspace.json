@@ -6,6 +6,7 @@
       {
         "id": "08548b43e221d144",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "6ca60fac9e60ba29",
@@ -13,7 +14,63 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Dictionary.md",
+                "file": "Теория/STL/Контейнеры/List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "18a9657f028b98be",
+        "type": "tabs",
+        "dimension": 20.117275597654487,
+        "children": [
+          {
+            "id": "d04aacc1c99c1443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теория/Основы языка/Основы языка.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0eb76c5d1029a032",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "cb2768607ce2f519",
+        "type": "tabs",
+        "dimension": 46.54939106901218,
+        "children": [
+          {
+            "id": "c77278721141605b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "c07bbd65d7c4f0f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теория/Теория.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C++ Dictionary.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +199,31 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a2a31680f308055e",
+  "active": "c77278721141605b",
   "lastOpenFiles": [
+    "Теория/Основы языка/Основы языка.md",
+    "Теория/Основы языка/Универсальные классы.md",
+    "Теория/Теория.md",
+    "Теория/CLI.md",
+    "К просмотру.md",
+    "Теория/Wildcard.md",
     "C++ Dictionary.md",
+    "Теория/STL/STL.md",
+    "Теория/STL/Контейнеры/List.md",
+    "Теория/STL/Контейнеры/Vector.md",
+    "Теория/STL/Контейнеры",
+    "Теория/STL",
+    "Теория/Доска теории.canvas",
+    "Теория/Основы языка/Поток управления/Поток управления.md",
+    "Теория/Основы языка/Препроцессор/Условная компиляция.md",
+    "Теория/Основы языка/Препроцессор/Препроцессор.md",
+    "Теория/Основы языка/Препроцессор/Макросы процессора.md",
+    "Теория/Основы языка/Препроцессор/Замена текста.md",
+    "Теория/Основы языка/Препроцессор/Включение файлов.md",
+    "Теория/Основы языка/Препроцессор",
+    "Теория/Основы языка/Поток управления",
+    "Теория/Основы языка",
+    "Теория",
     "create a link.md",
     "Welcome.md"
   ]

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"633544f4e14a9b87","type":"file","file":"Теория/Основы языка/Препроцессор/Включение файлов.md","x":500,"y":1760,"width":400,"height":400},
+		{"id":"a8e3c95ef4c59183","type":"file","file":"Теория/Основы языка/Препроцессор/Замена текста.md","x":940,"y":1760,"width":400,"height":400},
+		{"id":"4cba73a68f74a674","type":"file","file":"Теория/Основы языка/Препроцессор/Условная компиляция.md","x":1380,"y":1760,"width":400,"height":400},
+		{"id":"e71a808b62c14640","type":"file","file":"Теория/Основы языка/Препроцессор/Макросы процессора.md","x":500,"y":1120,"width":400,"height":400},
+		{"id":"42f67709419771cb","type":"file","file":"Теория/Основы языка/Препроцессор/Препроцессор.md","x":500,"y":640,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"007e2c55a9b95c4d","fromNode":"e71a808b62c14640","fromSide":"bottom","toNode":"a8e3c95ef4c59183","toSide":"top"},
+		{"id":"ca4aed96ea7de8b7","fromNode":"e71a808b62c14640","fromSide":"bottom","toNode":"633544f4e14a9b87","toSide":"top"},
+		{"id":"e8947966e12d3e21","fromNode":"e71a808b62c14640","fromSide":"bottom","toNode":"4cba73a68f74a674","toSide":"top"},
+		{"id":"69d249ac0a85ba67","fromNode":"42f67709419771cb","fromSide":"bottom","toNode":"e71a808b62c14640","toSide":"top"}
+	]
+}
