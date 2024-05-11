@@ -25,7 +25,7 @@
       {
         "id": "18a9657f028b98be",
         "type": "tabs",
-        "dimension": 20.117275597654487,
+        "dimension": 38.74605322507894,
         "children": [
           {
             "id": "d04aacc1c99c1443",
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Теория/Основы языка/Основы языка.md",
+                "file": "C++ Dictionary.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
       {
         "id": "cb2768607ce2f519",
         "type": "tabs",
-        "dimension": 46.54939106901218,
+        "dimension": 27.920613441587733,
         "children": [
           {
             "id": "c77278721141605b",
@@ -142,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C++ Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++ Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C++ Dictionary.md"
+              }
             }
           }
         ]
@@ -199,17 +203,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c77278721141605b",
+  "active": "d04aacc1c99c1443",
   "lastOpenFiles": [
-    "Теория/Основы языка/Основы языка.md",
-    "Теория/Основы языка/Универсальные классы.md",
-    "Теория/Теория.md",
-    "Теория/CLI.md",
+    "Шаблоны/Шаблон ежедневной заметки.md",
     "К просмотру.md",
+    "Ежедневные заметки/2024-05-11.md",
+    "Ежедневные заметки",
+    "Шаблоны/Шаблон страницы.md",
+    "Без названия.md",
+    "Теория/STL/Контейнеры/List.md",
+    "Теория/Теория.md",
+    "Теория/Основы языка/Основы языка.md",
+    "Шаблоны",
+    "Приложения",
+    "Теория/Основы языка/Универсальные классы.md",
+    "Теория/CLI.md",
     "Теория/Wildcard.md",
     "C++ Dictionary.md",
     "Теория/STL/STL.md",
-    "Теория/STL/Контейнеры/List.md",
     "Теория/STL/Контейнеры/Vector.md",
     "Теория/STL/Контейнеры",
     "Теория/STL",
