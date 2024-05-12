@@ -4,28 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "08548b43e221d144",
-        "type": "tabs",
-        "dimension": 33.33333333333333,
-        "children": [
-          {
-            "id": "6ca60fac9e60ba29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Теория/STL/Контейнеры/List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "18a9657f028b98be",
         "type": "tabs",
-        "dimension": 38.74605322507894,
+        "dimension": 62.192622950819676,
         "children": [
           {
             "id": "d04aacc1c99c1443",
@@ -33,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Dictionary.md",
+                "file": "Теория/Обработка ошибок.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +33,7 @@
       {
         "id": "cb2768607ce2f519",
         "type": "tabs",
-        "dimension": 27.920613441587733,
+        "dimension": 37.807377049180324,
         "children": [
           {
             "id": "c77278721141605b",
@@ -70,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Теория/Теория.md",
+                "file": "Теория/Оформление кода.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ Dictionary.md",
+                "file": "Теория/Обработка ошибок.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ Dictionary.md",
+                "file": "Теория/Обработка ошибок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ Dictionary.md"
+                "file": "Теория/Обработка ошибок.md"
               }
             }
           }
@@ -205,21 +186,28 @@
   },
   "active": "d04aacc1c99c1443",
   "lastOpenFiles": [
+    "Теория/Обработка ошибок.md",
+    "Теория/Оформление кода.md",
+    "Теория/Теория.md",
+    "Теория/constexpr auto.md",
+    "Теория/Оформление заголовочных файлов.md",
+    "C++ Dictionary.md",
+    "Теория/Основы языка/Ключевые слова/static.md",
+    "Без названия.md",
+    "Теория/Основы языка/Ключевые слова",
+    "Теория/Основы языка/Без названия.md",
     "Шаблоны/Шаблон ежедневной заметки.md",
     "К просмотру.md",
     "Ежедневные заметки/2024-05-11.md",
     "Ежедневные заметки",
     "Шаблоны/Шаблон страницы.md",
-    "Без названия.md",
     "Теория/STL/Контейнеры/List.md",
-    "Теория/Теория.md",
     "Теория/Основы языка/Основы языка.md",
     "Шаблоны",
     "Приложения",
     "Теория/Основы языка/Универсальные классы.md",
     "Теория/CLI.md",
     "Теория/Wildcard.md",
-    "C++ Dictionary.md",
     "Теория/STL/STL.md",
     "Теория/STL/Контейнеры/Vector.md",
     "Теория/STL/Контейнеры",
@@ -234,8 +222,6 @@
     "Теория/Основы языка/Препроцессор",
     "Теория/Основы языка/Поток управления",
     "Теория/Основы языка",
-    "Теория",
-    "create a link.md",
-    "Welcome.md"
+    "Теория"
   ]
 }
